@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "example" {
-  name     = "tfe-resources-srini"
+  name     = "tfe-srini-resources"
   location = "Central US"
 }
 
